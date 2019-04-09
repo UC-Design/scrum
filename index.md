@@ -1,14 +1,15 @@
 We will utilise Scrum and Trello in many of our group work projects. 
 
+This page provides further information on both Scrum and the Production journal required for assessment. 
+
 ## What is Scrum?
 
 > Scrum is a framework for developing, delivering, and sustaining complex products. 
 
 [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
 
-> Scrum is an agile way to manage a project, usually software development. Agile software development with Scrum is often perceived as a methodology; but rather than viewing Scrum as methodology, think of it as a framework for managing a process.
+We know group work can be really bad, but it can also be really good. Either way, when you start working in the industry it is highly likely that you'll be working on projects in groups (or teams as they say now). We'll use Scrum as a framework for managing those process of development. 
 
-[Scrum](https://www.mountaingoatsoftware.com/agile/scrum)
 
 ## What is Trello?
 
